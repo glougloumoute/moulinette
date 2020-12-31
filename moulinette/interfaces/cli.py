@@ -22,7 +22,7 @@ from moulinette.interfaces import (
 from moulinette.utils import log
 
 
-logger = log.getLogger("moulinette.cli")
+logger = log.getLogger("moulinette.core")
 
 
 # CLI helpers ----------------------------------------------------------
